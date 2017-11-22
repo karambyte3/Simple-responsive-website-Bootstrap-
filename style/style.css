@@ -121,9 +121,9 @@ a {
 
 
 @media only screen and (max-width: 710px) {
-	 .nav li {
+	html .nav li {
 		display: block;
-		margin: 5px;
+		margin: 10px;
 		padding: 0;
 	}
 
