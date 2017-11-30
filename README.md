@@ -1,2 +1,4 @@
 # Simple-responsive-website-Bootstrap-
-This website is modern and simple. 
+This template website is created with Bootstrap 4.
+
+link https://karambyte3.github.io/Simple-responsive-website-Bootstrap-/
